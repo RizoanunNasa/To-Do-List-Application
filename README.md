@@ -2,9 +2,6 @@
 
 This repository contains a full-stack web application built with Angular and Spring Boot, deployed using Docker, and using MySQL as the database.
 
-Live Demo at: https://aymen-nacer.github.io/Full-Stack-To-Do-List-App/
-
-
 ![Capture](https://github.com/Aymen-Nacer/Full-Stack-To-Do-List-App/assets/67188835/7831ce49-a229-4617-8afd-683f2ef47a8b)
 
 
